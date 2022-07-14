@@ -47,12 +47,12 @@ variable "public_subnet" {
 /*
 variable "access_key" {
   description = "AWS ACCESS_KEY"
-  default = "AKIAVCJKWOPC2RN3EFC6"
+  default = ""
 }
 
 variable "secret_key" {
   description = "AWS SECRETE_KEY"
-  default = "8UIud31iJzd5QQRaCDn/UwP8TllSX5AwrEhZmkjf"
+  default = ""
 }
 
 variable "aws_region" {
